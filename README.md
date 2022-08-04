@@ -1,6 +1,6 @@
 # CZ2007-Implementation-of-a-Database-Application
 
-Team project done in Year 2 Sem 1
+Group project done in Year 2 Sem 1
 
 ### Lab 1: Create an ER diagram
 - Based on information given, construct a suitable ER diagram.
