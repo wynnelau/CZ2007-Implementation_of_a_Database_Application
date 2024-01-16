@@ -2,6 +2,9 @@
 
 Group project done in Year 2 Sem 1
 
+• Generated an entity relationship (ER) diagram and a normalised database schema to better understand the structure of the database.  
+• Formulated SQL statements for queries using MS SQL Server to generate data required from the database.
+
 ### Lab 1: Create an ER diagram
 - Based on information given, construct a suitable ER diagram.
 - Analyse the usage of weak entity sets, choice of entity sets etc. and compare them with alternative solutions.
