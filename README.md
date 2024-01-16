@@ -1,4 +1,4 @@
-# CZ2007-Implementation-of-a-Database-Application
+# CZ2007-Implementation_of_a_Database_Application
 
 Group project done in Year 2 Sem 1
 
